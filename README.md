@@ -32,3 +32,10 @@ It allows users to add, delete, and save their daily tasks with a minimal GUI in
 
 ```bash
 python "TASK MANAGER.py"
+
+---
+
+
+👩‍💻 Author
+Diya Kathil
+https://github.com/Diyakathil
