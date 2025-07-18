@@ -24,6 +24,18 @@ It allows users to add, delete, and save their daily tasks with a minimal GUI in
 ---
 
 
+## 💡 How to Use
+
+To run this project:
+
+1. Click on the green "Code" button and download the ZIP file.
+2. Extract it and open `TASK MANAGER.py` in Python IDLE or VS Code.
+3. Run the file to launch the GUI task manager.
+
+> Note: This is a desktop GUI app using Tkinter and requires Python 3.x installed.
+
+---
+
 ## 🚀 How to Run
 
 1. Make sure Python 3 is installed.
